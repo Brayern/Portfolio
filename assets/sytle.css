@@ -246,3 +246,27 @@ footer {
   font-size: 0.9rem;
   color: #aaa;
 }
+/* Media Queries */
+@media (max-width: 768px) {
+  .nav-links {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .hero h1 {
+    font-size: 2.5rem;
+  }
+
+  .hero h2 span {
+    font-size: 1.2rem;
+  }
+
+  .profile-image {
+    width: 120px;
+    height: 120px;
+  }
+
+  section {
+    padding: 60px 20px;
+  }
+}
