@@ -6,7 +6,7 @@ Welcome to my personal portfolio website! This is a fully responsive, sleek, and
 
 ## 🔗 Live Preview
 
-> [Visit Portfolio](https://brayern.my.canva.site/)  
+> [Visit Portfolio](https://brayern.github.io/Portfilio/)  
 *(Note: This GitHub version is a static rebuild in HTML/CSS)*
 
 ---
@@ -63,6 +63,8 @@ No frameworks or JavaScript were used — this is a clean, semantic, and lightwe
 ├── assets/
 │ ├── style.css
 │ ├── Brayern_CV.pdf
+│ ├── bg_coding.png
+│ ├── profile.jpg
 
 
 ---
