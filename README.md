@@ -6,7 +6,7 @@ Welcome to my personal portfolio website! This is a fully responsive, sleek, and
 
 ## 🔗 Live Preview
 
-> [Visit Portfolio](https://brayern.github.io/Portfilio/)  
+> [Visit Portfolio](https://brayern.github.io/Portfolio/)  
 *(Note: This GitHub version is a static rebuild in HTML/CSS)*
 
 ---
